@@ -1,16 +1,19 @@
-### Hi there 👋
+# Vitor Hugo de Sousa 
 
-<!--
-**Vitorhugofsousa/Vitorhugofsousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Science student at UFMS, a tech enthusiast exploring the world of Machine Learning and Embedded Systems.
 
-Here are some ideas to get you started:
+## Interests 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Data Science 📈
+* Machine Learning 🦾
+* Embedded Systems ⚙️
+* Software Development 👩🏻‍💻
+
+## Education 
+
+*Technician in Informatics ✔️
+* Data Science - UFMS (in progress) 🎓
+
+## About Me
+
+In my free time, I enjoy playing games , going for a run, listening to music , and watching series .
