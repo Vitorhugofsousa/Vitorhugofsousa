@@ -4,15 +4,15 @@ I'm a Data Science student at UFMS, a tech enthusiast exploring the world of Mac
 
 ## Interests 
 
-* Data Science 📈
-* Machine Learning 🦾
-* Embedded Systems ⚙️
-* Software Development 👩🏻‍💻
+* 📈 Data Science 
+* 🦾 Machine Learning 
+* ⚙️ Embedded Systems 
+* 👩🏻‍💻 Software Development 
 
 ## Education 
 
-* Technician in Informatics ✔️
-* Data Science - UFMS (in progress) 🎓
+* ✔️ Technician in Informatics 
+* 🎓 Data Science - UFMS (in progress) 
 
 ## About Me
 
