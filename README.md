@@ -11,7 +11,7 @@ I'm a Data Science student at UFMS, a tech enthusiast exploring the world of Mac
 
 ## Education 
 
-* ✔️ Technician in Informatics 
+* ✔️ Technician in Informatics - CETEP SSF II
 * 🎓 Data Science - UFMS (in progress) 
 
 ## About Me
